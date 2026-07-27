@@ -1,0 +1,194 @@
+[
+ {
+  "cond": "RICH_full",
+  "width": 8,
+  "train_mse": 0.014399737701751292,
+  "hole": 0.7408583760261536,
+  "insup": 0.11167100816965103,
+  "ntk_drift": 60.175561606884
+ },
+ {
+  "cond": "RICH_full",
+  "width": 16,
+  "train_mse": 0.0030198548338375986,
+  "hole": 0.45487451553344727,
+  "insup": 0.02443801984190941,
+  "ntk_drift": 37.8231583237648
+ },
+ {
+  "cond": "RICH_full",
+  "width": 32,
+  "train_mse": 0.0036164970078971237,
+  "hole": 0.2647075355052948,
+  "insup": 0.04415542259812355,
+  "ntk_drift": 36.19958209991455
+ },
+ {
+  "cond": "RICH_full",
+  "width": 64,
+  "train_mse": 0.0032104187121149153,
+  "hole": 0.3486535847187042,
+  "insup": 0.03689480200409889,
+  "ntk_drift": 12.256879031658173
+ },
+ {
+  "cond": "RICH_full",
+  "width": 128,
+  "train_mse": 0.0031122226791922003,
+  "hole": 0.1782931387424469,
+  "insup": 0.0326378233730793,
+  "ntk_drift": 2.167905479669571
+ },
+ {
+  "cond": "RICH_full",
+  "width": 256,
+  "train_mse": 0.003453773388173431,
+  "hole": 0.09547855705022812,
+  "insup": 0.03821616992354393,
+  "ntk_drift": 2.7271114885807037
+ },
+ {
+  "cond": "RICH_sameinit",
+  "width": 8,
+  "train_mse": 0.003535500494763255,
+  "hole": 0.0736856684088707,
+  "insup": 0.013963157311081886,
+  "ntk_drift": null
+ },
+ {
+  "cond": "RICH_sameinit",
+  "width": 16,
+  "train_mse": 0.0035761351755354553,
+  "hole": 0.31197720766067505,
+  "insup": 0.014319825917482376,
+  "ntk_drift": null
+ },
+ {
+  "cond": "RICH_sameinit",
+  "width": 32,
+  "train_mse": 0.0032898905919864774,
+  "hole": 0.059104423969984055,
+  "insup": 0.029173066839575768,
+  "ntk_drift": null
+ },
+ {
+  "cond": "RICH_sameinit",
+  "width": 64,
+  "train_mse": 0.0030247036484070122,
+  "hole": 0.15909765660762787,
+  "insup": 0.026449061930179596,
+  "ntk_drift": null
+ },
+ {
+  "cond": "RICH_sameinit",
+  "width": 128,
+  "train_mse": 0.003102716524153948,
+  "hole": 0.07017190009355545,
+  "insup": 0.02733435481786728,
+  "ntk_drift": null
+ },
+ {
+  "cond": "RICH_sameinit",
+  "width": 256,
+  "train_mse": 0.003370497055584565,
+  "hole": 0.07650035619735718,
+  "insup": 0.027842078357934952,
+  "ntk_drift": null
+ },
+ {
+  "cond": "RICH_sameorder",
+  "width": 8,
+  "train_mse": 0.0037863807228859514,
+  "hole": 0.6430540084838867,
+  "insup": 0.0359138660132885,
+  "ntk_drift": null
+ },
+ {
+  "cond": "RICH_sameorder",
+  "width": 16,
+  "train_mse": 0.0028887203661724925,
+  "hole": 0.37599578499794006,
+  "insup": 0.020412525162100792,
+  "ntk_drift": null
+ },
+ {
+  "cond": "RICH_sameorder",
+  "width": 32,
+  "train_mse": 0.0034047009830828756,
+  "hole": 0.1949630081653595,
+  "insup": 0.031816016882658005,
+  "ntk_drift": null
+ },
+ {
+  "cond": "RICH_sameorder",
+  "width": 64,
+  "train_mse": 0.0040449479420203716,
+  "hole": 0.39398330450057983,
+  "insup": 0.044675298035144806,
+  "ntk_drift": null
+ },
+ {
+  "cond": "RICH_sameorder",
+  "width": 128,
+  "train_mse": 0.0029510273598134518,
+  "hole": 0.18048010766506195,
+  "insup": 0.022767098620533943,
+  "ntk_drift": null
+ },
+ {
+  "cond": "RICH_sameorder",
+  "width": 256,
+  "train_mse": 0.0032073375477921218,
+  "hole": 0.10288359224796295,
+  "insup": 0.018963856622576714,
+  "ntk_drift": null
+ },
+ {
+  "cond": "LAZY_frozen",
+  "width": 8,
+  "train_mse": 0.46976837515830994,
+  "hole": 0.1643090695142746,
+  "insup": 0.04574933275580406,
+  "ntk_drift": null
+ },
+ {
+  "cond": "LAZY_frozen",
+  "width": 16,
+  "train_mse": 0.4435470588505268,
+  "hole": 0.09123573452234268,
+  "insup": 0.0529509074985981,
+  "ntk_drift": null
+ },
+ {
+  "cond": "LAZY_frozen",
+  "width": 32,
+  "train_mse": 0.4031980596482754,
+  "hole": 0.1293877363204956,
+  "insup": 0.05950695648789406,
+  "ntk_drift": null
+ },
+ {
+  "cond": "LAZY_frozen",
+  "width": 64,
+  "train_mse": 0.37780049070715904,
+  "hole": 0.10068172216415405,
+  "insup": 0.03533719480037689,
+  "ntk_drift": null
+ },
+ {
+  "cond": "LAZY_frozen",
+  "width": 128,
+  "train_mse": 0.27846552431583405,
+  "hole": 0.16240881383419037,
+  "insup": 0.03919307142496109,
+  "ntk_drift": null
+ },
+ {
+  "cond": "LAZY_frozen",
+  "width": 256,
+  "train_mse": 0.18298631347715855,
+  "hole": 0.216837078332901,
+  "insup": 0.0687451884150505,
+  "ntk_drift": null
+ }
+]
